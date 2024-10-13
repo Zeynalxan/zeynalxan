@@ -18,4 +18,4 @@ I’m passionate about **finding vulnerabilities** and **building apps** that ma
 
 ## 📫 Get in Touch  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:zeynalxanquliyev@proton.me)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/zeynalxanquliyev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]( https://www.linkedin.com/in/zeynalxanquliyev )  
