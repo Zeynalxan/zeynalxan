@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Zeynalxanquliyev – Explorer of Code & Security  
+# 👋 Hey, I’m Zeynalxan Quliyev – Explorer of Code & Security  
 
 Welcome to my little corner of the internet! 🚀 I enjoy turning complex problems into simple solutions and making the digital world safer, one vulnerability at a time. Whether it’s diving deep into code, securing apps, or building innovative projects, I’m always up for a challenge.  
 
