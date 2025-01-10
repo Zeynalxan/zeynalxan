@@ -14,7 +14,7 @@ I’m passionate about **finding vulnerabilities** and **building apps** that ma
 ---
 
 ## 🏆 Highlights  
-- Recognized by **Microsoft, CERT-EU, Lenovo, and Panasonic**  
+- Recognized by **Microsoft, Apple, CERT-EU, Lenovo, and others...**  
 - Active on **Bugcrowd** and **HackerOne**  
 
 ---
