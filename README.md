@@ -7,9 +7,11 @@ I’m passionate about **finding vulnerabilities** and **building apps** that ma
 
 ---
 
-## 🔧 What I Enjoy  
-- Securing web and mobile applications 🛡️  
-- Participating in bug bounty programs 🔍  
+## 
+<p align="center">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=aklerza&color=blue"/>
+</p>
+
 
 ---
 
