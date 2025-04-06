@@ -9,7 +9,7 @@ I’m passionate about **finding vulnerabilities** and **building apps** that ma
 
 ## 
 <p align="center">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=aklerza&color=blue"/>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Zeynalxan&color=blue"/>
 </p>
 
 
